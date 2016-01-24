@@ -46,4 +46,11 @@ The challenge requirements seem vague, am I missing something?
 - This prompt is designed to be open-ended, so feel free to be creative in the areas that lack strict guidelines.
 
 # Running My App (README.md)
---- Insert your readme here ---
+To Run App
+npm install
+bower install
+gulp
+nodemon ./server/server.js
+
+Site should come live at:
+http://localhost:7777/
