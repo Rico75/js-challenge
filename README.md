@@ -50,6 +50,9 @@ To Run App
 npm install
 bower install
 gulp
+# make sure mongo DB is running
+mongod
+# Run on localhost
 nodemon ./server/server.js
 
 Site should come live at:
